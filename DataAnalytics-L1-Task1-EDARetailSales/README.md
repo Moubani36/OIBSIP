@@ -12,5 +12,5 @@ Tools Used
 - Seaborn
 - Google Colab
 
-Status
-🚧 In Progress
+Status:
+COMPLETED
