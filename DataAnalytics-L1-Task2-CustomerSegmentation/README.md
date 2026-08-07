@@ -108,6 +108,3 @@ The objective of this project is to perform **Customer Segmentation Analysis** u
 Successfully segmented customers into meaningful groups using **K-Means Clustering** and **RFM Analysis**, providing actionable insights for customer relationship management and targeted marketing.
 
 ---
-
-
-This README is polished, recruiter-friendly, and matches the style expected for an Oasis Infobyte internship submission. It will look professional alongside your Task 1 project on GitHub.
