@@ -19,7 +19,7 @@ Welcome to my GitHub repository for the Oasis Infobyte Data Analytics Internship
 
 | Level / Task | Project Name | Description | Status |
 | :--- | :--- | :--- | :---: |
-| Level 1 | EDA on Retail Sales Data | Comprehensive EDA on retail dataset to uncover purchasing trends and demographics. | ⏳ In Progress |
+| Level 1 | EDA on Retail Sales Data | Comprehensive EDA on retail dataset to uncover purchasing trends and demographics. | COMPLETED |
 | Level 2 | To be updated | Upcoming Task | ⏳ Pending |
 | Level 3 | To be updated | Upcoming Task | ⏳ Pending |
 
